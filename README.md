@@ -1,6 +1,6 @@
 ## PDF版本下载
 * Release下载：https://github.com/ThoughtsBeta/TheKingOfConcurrency/releases
-* 百度加速下载：https://pan.baidu.com/s/1XZdoQf9ClrLQPvgwb1zqFQ 提取码: ywsy
+* 百度加速下载：https://pan.baidu.com/s/1yWLgqoPsu4AonTJWbrd8Ew?pwd=p3bm
 
 ## 关于这份文集
 《王者并发课》的全称是 **《王者并发课：结构化认知Java中的并发》**，首发于[掘金专栏](https://juejin.cn/column/6963590682602635294)，也是《[高并发秒杀的设计精要与实现](https://juejin.cn/book/7008372989179723787)》的姊妹篇。在这份文集中，我们将按照理解难度的不同循序渐进带你**结构化**认知Java中的并发。
