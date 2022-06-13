@@ -1,5 +1,9 @@
+## PDF版本下载
+* Release下载：https://github.com/ThoughtsBeta/TheKingOfConcurrency/releases
+* 百度加速下载：https://pan.baidu.com/s/1XZdoQf9ClrLQPvgwb1zqFQ 提取码: ywsy
 
-《王者并发课》的全称是 **《王者并发课：结构化认知Java中的并发》**，是首发于[掘金专栏](https://juejin.cn/column/6963590682602635294)的系列文章。在这份文集中，我们将按照理解难度的不同循序渐进带你**结构化**认知Java中的并发。
+## 关于这份文集
+《王者并发课》的全称是 **《王者并发课：结构化认知Java中的并发》**，首发于[掘金专栏](https://juejin.cn/column/6963590682602635294)，也是《[高并发秒杀的设计精要与实现](https://juejin.cn/book/7008372989179723787)》的姊妹篇。在这份文集中，我们将按照理解难度的不同循序渐进带你**结构化**认知Java中的并发。
 
 **该系列文章以不同的段位进行组织**，不同的段位代表着不同的**认知难度**。之所以使用王者中的**段位**概念，不仅是因为有调和文章趣味性的考虑，更为重要的是，随着认知难度的增加，我们坚持下去的难度也同样在增加，甚至后者来得更为强烈。**具备攻坚克难的决心和定力，是一名优秀程序员的基本品质**。
 
@@ -20,3 +24,10 @@
 * 希望结构化认知Java并发编程的专业开发者；
 * 正在求职路上并希望结构化梳理Java并发知识的专业开发者。
 
+## 如何获取最新版本
+
+我将会不定期对文集进行版本完善，比如错误更正、内容扩充等，并同步修订PDF版本。如果你有兴趣，可以关注公众号，及时获取最新版本推送，也可以在公众号菜单里手动获取最新版本。
+<div style="width:100%;text-align:center"> <img src="https://writting.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_61bfe45f82b7_344.jpg" style="margin-top:10%;width:30% "/></div>
+
+<div style="width:100%;margin-top:20px; text-align:center"> 关注公众号，及时获取最新版本</div>
+<div style="width:100%;margin-top:20px; text-align:center; font-size:10px"> 无广告，无推销，无骚扰。</div>
