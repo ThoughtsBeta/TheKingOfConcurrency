@@ -28,6 +28,3 @@
 
 我将会不定期对文集进行版本完善，比如错误更正、内容扩充等，并同步修订PDF版本。如果你有兴趣，可以关注公众号，及时获取最新版本推送，也可以在公众号菜单里手动获取最新版本。
 <div style="width:100%;text-align:center"> <img src="https://writting.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_61bfe45f82b7_344.jpg" style="margin-top:10%;width:30% "/></div>
-
-<div style="width:100%;margin-top:20px; text-align:center"> 关注公众号，及时获取最新版本</div>
-<div style="width:100%;margin-top:20px; text-align:center; font-size:10px"> 无广告，无推销，无骚扰。</div>
